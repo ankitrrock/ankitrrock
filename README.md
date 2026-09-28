@@ -1,49 +1,53 @@
-markdown
+# Hi, I'm Ankit Anand 👋
+### Python Backend & Data Engineer | Data Pipelines, Automation & APIs
 
-# Hi there, I'm Ankit Anand 👋 
-### Data Engineer & Backend Developer | Building Scalable Data Pipelines & AI Solutions
-
-I specialize in designing and implementing robust ETL/ELT pipelines, streaming data architectures, and cloud-native backend applications. I enjoy transforming raw, unstructured data into actionable insights and production-ready APIs.
+I build automated data workflows, ETL/ELT pipelines and REST APIs in Python. At Times Internet I replaced a long-running manual Google Ad Manager process with an automated system, cutting processing time **30x** at **100% KPI accuracy**. Before that I built Django/DRF backends and Airflow pipelines (Pipedrive → Snowflake) for client platforms at Oodles Technologies.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, JavaScript
-- **Data Engineering:** Apache Airflow, Apache Kafka, ETL/ELT Pipelines
-- **Cloud & Infrastructure:** AWS (S3, DynamoDB, Boto3), Docker, Cloudflare R2 / Workers, Vercel
-- **Databases & Warehouses:** PostgreSQL, MongoDB, Supabase
-- **Backend & Web:** Django, FastAPI, Asyncpg, Greenlet
+- **Languages:** Python, SQL
+- **Data Engineering:** Apache Airflow, Apache Kafka, Airbyte, PySpark, ETL/ELT pipelines
+- **Databases & Warehouses:** Snowflake, PostgreSQL, MySQL, MongoDB, DynamoDB, Supabase
+- **Backend & Web:** Django, Django REST Framework, FastAPI, Flask, Asyncpg
+- **Cloud & DevOps:** AWS (S3, Lambda, DynamoDB, Boto3), Azure Key Vault, Docker, GitHub Actions, Cloudflare R2 / Workers, Vercel
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 📊 [Airflow ETL Engine](https://github.com/ankitrrock/Airflow)
-An end-to-end data pipeline infrastructure automating complex Extract, Transform, Load workflows. Built using Apache Airflow to handle task scheduling, dependency management, and monitoring.
+End-to-end ETL pipelines built with Apache Airflow, covering task scheduling, dependency management and monitoring.
 
 #### 🏗️ [AWS Data Integrator](https://github.com/ankitrrock/Aws_s3_dynamodb_boto3)
-A highly optimized python utility utilizing `boto3` to orchestrate secure, asynchronous data transfers and interactions between AWS S3 and DynamoDB for high-throughput applications.
+A Python utility using `boto3` for secure, asynchronous data transfers between AWS S3 and DynamoDB in high-throughput applications.
 
 #### 🌪️ [Event-Driven Kafka Streamer](https://github.com/ankitrrock/Kafka)
-Real-time messaging architecture focused on event-driven streaming, data production, and structured ingestion pipelines using Apache Kafka topics.
+Real-time event streaming with Apache Kafka: producing to topics and structured ingestion pipelines.
 
 #### 📂 [Automated Data Ingestion API](https://github.com/ankitrrock/data_ingestion_api)
-A Python-powered backend service engineered to accept bulk CSV datasets, handle validation steps, and dynamically compute core summary statistics for downstream analytics.
+A Python backend service that accepts bulk CSV uploads, validates them and computes summary statistics for downstream analytics.
 
 ---
 
-### 📈 GitHub Analytics
+### 💼 Professional Work
+
+- **Times Internet:** automated Google Ad Manager lines and orders tracking (30x faster, 100% KPI accuracy) and built a real-time campaign monitoring dashboard.
+- **Oodles Technologies:** Django/DRF APIs for Viral Nation Platform and Secure; Airflow workflows for NCS Multistage (Pipedrive → Snowflake, webhook ingestion).
+
+---
+
+### 📈 GitHub Stats
 
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitrrock&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrrock&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrrock&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 
-- **Location:** New Delhi, India 📍
-- **LinkedIn:** [Your LinkedIn Link Here]
-- **Portfolio:** [Your Portfolio Website Here]
-
-Use code with caution.
+- **Location:** Delhi, India 📍
+- **LinkedIn:** [linkedin.com/in/ankit-anand-3b2933188](https://www.linkedin.com/in/ankit-anand-3b2933188/)
+- **Portfolio:** [ankitrrock.github.io](https://ankitrrock.github.io)
+- **Email:** [ankitnnd@outlook.com](mailto:ankitnnd@outlook.com)
